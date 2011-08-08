@@ -1,4 +1,4 @@
-<?
+<?php
 /***********************************************
 * This file is part of PeoplePods
 * (c) xoxco, inc  
@@ -15,7 +15,4 @@
 		header("Location: install");
 	} 
 
-?>	
-	
-	
-	
+?>
